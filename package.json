@@ -1,6 +1,8 @@
 {
   "name": "vue-stackpos-demo",
   "version": "0.1.0",
+  "git" : "https://github.com/tamsamani/vue-stockpos-demo",
+  "author" : "tamsamani <tamsmoha@gmail.com>",
   "private": true,
   "dependencies": {}
 }
