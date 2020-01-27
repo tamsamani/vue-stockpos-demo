@@ -1,8 +1,8 @@
-
+import Vue from "vue";
 // Import stylesheets
 import './style.css';
 
-import AppInit from './src/main';
 
-
-AppInit();
+export default () => new Vue({
+  render: h => h("works?"),
+}).$mount('#app');
